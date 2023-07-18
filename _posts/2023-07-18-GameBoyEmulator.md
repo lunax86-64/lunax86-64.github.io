@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "My Experiments with GameBoy Emulator"
-date: 2023-07-18 22:40:00 -0000
-categories: LowLevelDevelopment Emulator
+title: My Post Title
+date: 2023-07-19
+author: John Doe
+categories: [LowLevelEmulation, Emulator]
+tags: [emulator]
 ---
 # My Experiments with GameBoy Emulator
